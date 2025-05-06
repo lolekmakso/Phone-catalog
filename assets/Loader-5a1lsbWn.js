@@ -1,0 +1,1 @@
+import{r as t,G as a,j as s}from"./index-ByYAZb2C.js";const e="/assets/logo_dark-BQXulIyV.svg",r="/assets/logo-BRXFxe3G.svg",g=()=>{const{theme:o}=t.useContext(a);return s.jsx("div",{className:"loader",children:s.jsx("img",{src:o==="light"?r:e,alt:"Logo",className:"loader__image"})})};export{g as L};
